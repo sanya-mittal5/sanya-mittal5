@@ -17,6 +17,12 @@ h1 {
   width: 100%; 
 }
 
+img {
+	float: left;
+	}
+
+
+
 
 .sidenav a {
   float: left;
